@@ -1,0 +1,7 @@
+{
+  "name": "Lasihuolto.com",
+  "version": "1.0.0",
+  "dependencies": {
+    "genesis-wordpress": "0.2.8"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "genesis-wordpress",
+  "version": "0.2.8",
+  "homepage": "https://github.com/genesis/wordpress",
+  "authors": [
+    "Eric Clemmons <eric@smarterspam.com>"
+  ],
+  "description": "Libraries for a multi-staged WordPress workflow with Vagrant",
+  "keywords": [
+    "vagrant",
+    "wordpress",
+    "genesis",
+    "cap",
+    "capistrano",
+    "deploy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.2.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.8",
+    "commit": "5b64eeaf9c449175ee4afe3ea1e55aaa906cb4c2"
+  },
+  "_source": "git://github.com/genesis/wordpress.git",
+  "_target": "0.2.8",
+  "_originalSource": "genesis-wordpress"
+}
